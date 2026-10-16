@@ -16,3 +16,4 @@ __pycache__/
 outputs/
 videos/
 Ultralytics/
+temp/
