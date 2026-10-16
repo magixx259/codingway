@@ -3,3 +3,17 @@
 
 # Ada Library Information
 *.ali
+
+# Local Python environment and generated files
+.venv/
+__pycache__/
+*.pyc
+*.pt
+*.mp4
+*.mov
+*.avi
+*.webm
+outputs/
+videos/
+Ultralytics/
+temp/
